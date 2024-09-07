@@ -1,0 +1,11 @@
+
+
+     How's your development environment going to look?
+
+       1. Full Zen                             |  recommended with extension pack 1
+       2. Comfy semi zen                       |  recommended with extension pack 2
+       3. Comfy semi zen minimal               |  recommended with extension pack 3
+       4. Just workable                        |  recommended with extension pack 4
+
+      0. Exit
+

@@ -1,0 +1,11 @@
+
+
+     What do you want to do?
+
+       1. Clear Installation               |  recommended for beginners
+       2. Install an environment           |  setup a predefined settings.json
+       3. Install an extension pack        |  install a predefined extension pack
+       4. Uninstall the whole environment  |  uninstall settings.json and the extension pack in use
+
+      0. Exit
+

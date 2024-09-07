@@ -1,0 +1,112 @@
+{
+	"workbench.colorTheme": "Vitesse Black",
+	"editor.cursorSmoothCaretAnimation": "on",
+	"editor.cursorBlinking": "smooth",
+  "editor.cursorStyle": "block-outline",
+	"editor.smoothScrolling": true,
+
+	"workbench.colorCustomizations": {
+		// "editorCursor.foreground": "#35c092"
+		"editorCursor.foreground": "#177556"
+	},
+
+	//"apc.font.family": "CaskaydiaCove Nerd Font", // Side Bar Font with Apc Customize UI++ extension
+	// "apc.font.family": "Hack Nerd Font",
+
+	"editor.fontFamily": "Space Mono",
+	// "editor.fontFamily": "Monaspace Neon Var",
+	// "editor.fontFamily": "Monaspace Argon",
+	// "editor.fontFamily": "Input Mono",
+	// "editor.fontFamily": "Source Code Pro",
+	// "editor.fontFamily": "JetBrains Mono",
+	// "editor.fontFamily": "Anonymous Pro",
+	// "editor.fontFamily": "FantasqueSansM Nerd Font Propo",
+
+	"terminal.integrated.fontFamily": "FantasqueSansM Nerd Font Propo",
+	//"terminal.integrated.fontFamily": "Anonymous Pro",
+	"editor.guides.bracketPairs": "active",
+	"editor.lineNumbers": "interval",
+	"editor.renderWhitespace": "boundary",
+	"window.autoDetectColorScheme": true,
+	"workbench.list.smoothScrolling": true,
+	"workbench.sideBar.location": "right",
+	"zenMode.fullScreen": true,
+	"zenMode.centerLayout": false,
+
+	"debug.onTaskErrors": "debugAnyway",
+	"diffEditor.ignoreTrimWhitespace": false,
+	"editor.find.addExtraSpaceOnTop": false,
+	"editor.inlineSuggest.enabled": true,
+	"editor.multiCursorModifier": "ctrlCmd",
+	"editor.suggestSelection": "first",
+	"editor.tabSize": 2,
+	"editor.unicodeHighlight.invisibleCharacters": false,
+	"editor.stickyScroll.enabled": true,
+	"editor.hover.sticky": true,
+	"editor.minimap.enabled": true,
+	"editor.codeActionsOnSave": {
+		"source.fixAll": "never",
+		"source.fixAll.eslint": "explicit",
+		"source.organizeImports": "never"
+	},
+	"explorer.confirmDelete": true,
+	"explorer.confirmDragAndDrop": false,
+	"files.eol": "\n",
+	"files.insertFinalNewline": true,
+	"files.simpleDialog.enable": true,
+	"git.autofetch": true,
+	"git.confirmSync": false,
+	"git.enableSmartCommit": true,
+	"git.untrackedChanges": "separate",
+	"scm.diffDecorationsGutterWidth": 2,
+	"terminal.integrated.cursorBlinking": true,
+	"terminal.integrated.cursorStyle": "line",
+	"terminal.integrated.fontWeight": "300",
+	"terminal.integrated.persistentSessionReviveProcess": "never",
+	"terminal.integrated.tabs.enabled": true,
+	"workbench.editor.closeOnFileDelete": true,
+	"workbench.editor.highlightModifiedTabs": true,
+	"workbench.editor.limit.enabled": true,
+	"workbench.editor.limit.perEditorGroup": true,
+	"workbench.editor.limit.value": 5,
+	"search.exclude": {
+		"**/*.snap": true,
+		"**/*.svg": true,
+		"**/.git": true,
+		"**/.github": false,
+		"**/.nuxt": true,
+		"**/.output": true,
+		"**/.pnpm": true,
+		"**/.vscode": true,
+		"**/.yarn": true,
+		"**/assets": true,
+		"**/bower_components": true,
+		"**/dist/**": true,
+		"**/logs": true,
+		"**/node_modules": true,
+		"**/out/**": true,
+		"**/package-lock.json": true,
+		"**/pnpm-lock.yaml": true,
+		"**/public": true,
+		"**/temp": true,
+		"**/yarn.lock": true,
+		"**/CHANGELOG*": true,
+		"**/LICENSE*": true
+	},
+
+	"window.dialogStyle": "custom",
+	"window.nativeTabs": true, // macOS only
+	"window.title": "${rootName}", // this make tabs more readable
+	"window.titleBarStyle": "custom",
+	"window.menuBarVisibility": "toggle", // you can still access the menu bar by pressing Alt-key
+	"extensions.autoUpdate": "onlyEnabledExtensions",
+
+	"emmet.showSuggestionsAsSnippets": true,
+	"emmet.triggerExpansionOnTab": false,
+
+	"catppuccin-noctis-icons.hidesExplorerArrows": false,
+	"workbench.preferredDarkColorTheme": "Sequoia Moonlight",
+	"workbench.preferredLightColorTheme": "Pastel Sky Light Theme",
+	"workbench.productIconTheme": "Tabler",
+	"workbench.iconTheme": "catppuccin noctis icons"
+}
