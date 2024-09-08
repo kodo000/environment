@@ -6,7 +6,10 @@
 This Project is work in progress.
 
 ## Available functionalities
-Coming soon
+> - Installs settings.json and extension pack together
+> - Installs (1/4) settings.json separately
+> - Installs (1/4) extension pack separately
+> - Uninstall the current settings.json and extension pack
 
 ## Get in touch
 You can reach me at github.venture089@passinbox.com
