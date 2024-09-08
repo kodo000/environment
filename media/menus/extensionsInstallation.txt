@@ -2,10 +2,10 @@
 
      What extension pack would you like to install?
 
-       1. Extension pack 1                     |  
-       2. Extension pack 2                     |  This process will delete your previous exntensions
-       3. Extension pack 3                     |  Ensure to backup it first
-       4. Extension pack 4                     |  requires at least (CaskaydiaCove Nerd Font and Input Mono)
+       1. Extension pack 1                     |  requires at least (Inter, JetBrains mono, sf mono) font installed
+       2. Extension pack 2                     |  requires at least (Source Code Pro, FantasqueSansM Nerd Font Propo) font installed
+       3. Extension pack 3                     |  requires at least (Space Mono, FantasqueSansM Nerd Font Propo) font installed
+       4. Extension pack 4                     |  requires at least (CaskaydiaCove Nerd Font, Input Mono, FantasqueSansM Nerd Font Propo) font installed
 
       0. Exit
 
