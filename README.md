@@ -14,7 +14,6 @@ This project is being supported against bugs. If it has been useful to you pleas
 ##  User Guide
 The first thing you have to do is execute **Environment.bat**
 _You can choose (1/4) options per time._
-<br/>
 
 ### **Main menu**
 > - To install settings.json and also an extension pack type 1 and press enter (once there you'll be asked to select one of the four environments (settings.json) and later one of the four extensions pack)
@@ -29,7 +28,6 @@ _You can choose (1/4) options per time._
 ***Note:*** You can add your own settings.json file by replacing at least one of the files located at (settings/setting{x}/)
 
 ***Note:*** You can add your own extensions pack by replacing the values at least one of the array values at (modules/installExtensions.bat)
-<br/>
 
 ## Get in touch
 You can reach me at github.venture089@passinbox.com
