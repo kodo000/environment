@@ -24,8 +24,10 @@ _You can choose (1/4) options per time._
 > 
 > - To uninstall the current settings.json and extension pack type 4 and press enter
 
-_**Note: **_You can add your own settings.json file by replacing at least one of the files located at (settings/setting{x}/)
-_**Note: **_You can add your own extensions pack by replacing the values at least one of the array values at (modules/installExtensions.bat)
+
+***Note:*** You can add your own settings.json file by replacing at least one of the files located at (settings/setting{x}/)
+
+***Note:*** You can add your own extensions pack by replacing the values at least one of the array values at (modules/installExtensions.bat)
 
 ## Get in touch
 You can reach me at github.venture089@passinbox.com
