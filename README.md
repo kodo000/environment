@@ -1,6 +1,7 @@
-<h3 align="center">Quick Environment Setup for Visual Studio Code</h3>
-
-<a justify-content: "center" href="https://notbyai.fyi"><img src="media/Written-By-Human-Not-By-AI/Written-By-Human-Not-By-AI-Badge-white.png" alt="Written by Human, Not by AI"></a>
+<div align="center">
+  <h3>Quick Environment Setup for Visual Studio Code</h3>
+  <a href="https://notbyai.fyi"><img src="media/Written-By-Human-Not-By-AI/Written-By-Human-Not-By-AI-Badge-white.png" alt="Written by Human, Not by AI"></a>
+</div>
 
 > [!CAUTION]
 > [Read the License to Avoid Inconveniences](https://github.com/kodo000/environment?tab=License-1-ov-file#)
