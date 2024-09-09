@@ -1,5 +1,7 @@
 <h3 align="center">Quick Environment Setup for Visual Studio Code</h3>
 
+<a href="https://notbyai.fyi"><img src="media/Written-By-Human-Not-By-AI/Written-By-Human-Not-By-AI-Badge-white.png" alt="Written by Human, Not by AI"></a>
+
 > [!CAUTION]
 > [Read the License to Avoid Inconveniences](https://github.com/kodo000/environment?tab=License-1-ov-file#)
 
@@ -10,7 +12,7 @@
 > This project is being supported against bugs.
 > 
 > ### Human Made
-> If it has been useful to you please consider supporting [#A Human Work.](#HumanMade), [contacting me](https://github.com/kodo000/environment?tab=readme-ov-file#get-in-touch)
+> If it has been useful to you please consider a small donation [#A Human Work.](#HumanMade), [contacting me](https://github.com/kodo000/environment?tab=readme-ov-file#get-in-touch)
 
 ## Available functionalities
 > - Installs settings.json and extension pack together
