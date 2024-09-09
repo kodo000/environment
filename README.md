@@ -1,7 +1,7 @@
 <h3 align="center">Quick Environment Setup for Visual Studio Code</h3>
 
-> [!WARNING]
-> Read the License to Avoid Inconveniences
+> [!CAUTION]
+> [Read the License to Avoid Inconveniences](https://github.com/kodo000/environment?tab=License-1-ov-file#)
 
 ## Info
 *Environment* offers various functionalities that will make visual studio code basic set up easier for you. From choosing a predefined environment or supporting your own basic configurations; *Environment* is designed to run on a vanilla windows setup, which means you don’t need anything special to run it beyond just windows itself.
