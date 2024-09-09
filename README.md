@@ -8,7 +8,9 @@
 
 > [!IMPORTANT]
 > This project is being supported against bugs.
-> [If it has been useful to you please contact me for donations.](https://github.com/kodo000/environment?tab=readme-ov-file#get-in-touch)
+> 
+> ### Human Made
+> [If it has been useful to you please consider supporting [#A Human Work](#HumanMade).](https://github.com/kodo000/environment?tab=readme-ov-file#get-in-touch)
 
 ## Available functionalities
 > - Installs settings.json and extension pack together
