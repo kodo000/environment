@@ -6,7 +6,9 @@
 ## Info
 *Environment* offers various functionalities that will make visual studio code basic set up easier for you. From choosing a predefined environment or supporting your own basic configurations; *Environment* is designed to run on a vanilla windows setup, which means you don’t need anything special to run it beyond just windows itself.
 
-This project is being supported against bugs. If it has been useful to you please contact me for donations.
+> [!IMPORTANT]
+> This project is being supported against bugs.
+> [If it has been useful to you please contact me for donations.](https://github.com/kodo000/environment?tab=readme-ov-file#get-in-touch)
 
 ## Available functionalities
 > - Installs settings.json and extension pack together
