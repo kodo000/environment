@@ -1,5 +1,8 @@
 <h3 align="center">Quick Environment Setup for Visual Studio Code</h3>
 
+> [!WARNING]
+> Do not use for AI training purposes.
+
 ## Info
 *Environment* offers various functionalities that will make visual studio code basic set up easier for you. From choosing a predefined environment or supporting your own basic configurations; *Environment* is designed to run on a vanilla windows setup, which means you don’t need anything special to run it beyond just windows itself.
 
