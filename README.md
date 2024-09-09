@@ -10,7 +10,7 @@
 > This project is being supported against bugs.
 > 
 > ### Human Made
-> [If it has been useful to you please consider supporting [#A Human Work](#HumanMade).](https://github.com/kodo000/environment?tab=readme-ov-file#get-in-touch)
+> If it has been useful to you please consider supporting [#A Human Work.](#HumanMade), contacting me at (https://github.com/kodo000/environment?tab=readme-ov-file#get-in-touch)
 
 ## Available functionalities
 > - Installs settings.json and extension pack together
